@@ -1,2 +1,3 @@
 # Cinema-em-C
-Programa que simula uma tela de compra de salas de cinema. Foi feito todo na linguagem C.
+Programa feito durante as aulas de programação de computadores II na UFRJ. 
+Simula uma tela de compra de uma sala de cinema, onde voce seleciona o filme, ingressos, etc.
